@@ -8,7 +8,7 @@ const Footer = () => {
           Contact@client.com
         </div>
         <div>
-          <button className='bg-blue-500'>Get help</button>
+          <button>Get help</button>
         </div>
        </div>
     </>
