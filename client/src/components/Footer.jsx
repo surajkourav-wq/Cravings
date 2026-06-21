@@ -9,6 +9,7 @@ const Footer = () => {
         </div>
         <div>
           <button>Get help</button>
+          <button>FAQ</button>
         </div>
        </div>
     </>
